@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="images/banner.gif" width="400" height="320"/>
+<img align="right" alt="GIF" src="./banner.gif" width="400" height="320"/>
 
 ## Hola, <br><br> &nbsp;&nbsp;&nbsp; Vinu here 👋
 <br>
